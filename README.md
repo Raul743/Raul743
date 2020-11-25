@@ -1,7 +1,7 @@
-### Hi there 👋
+#### Oi! 👋 Seja Bem-Vindo
 
 <!--
-**Raul743/Raul743** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Raul Inácio/Raul743** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -14,3 +14,31 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# Raul Inácio (DevIce)
+
+#### "I am passionate about the world of I.T and I always liked to program. Programming is my passion. Thanks to my effort and dedication I am achieving goals that I have always wanted. Focus and work is always good.".
+
+## Overview
+
+<p><img src="https://komarev.com/ghpvc/?username=Raul743" alt="Raul Inácio" /></p>
+
+**Languages and Tools:**
+
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+
+
+
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EuclidesQuissembe&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+<img align="right" src="https://github.com/AlienDev66/AlienDev66/blob/master/undraw_developer_activity_bv83.svg" alt="Illustration of StarCoder" width=265px height=265px/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=Raul743&show_icons=true" alt="raulinacio-status" />
